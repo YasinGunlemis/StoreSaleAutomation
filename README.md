@@ -6,8 +6,34 @@ Server Connection için Solution->DataAccess->Abstract->SqlService
 
 readonly string connectionString = "Data Source=YOURSERVERNAME;Initial Catalog=STORE;Integrated Security=True";
 
-Giriş Ekranı
+**------------GİRİŞ EKRANI------------**
+
 Eğer giriş yapan personel yetkili değilse ana ekranda giderler ve firma banka hesapları butonları gözükmeyecek
 
 ![1](https://user-images.githubusercontent.com/95411819/216808902-e0558beb-cb08-4dfd-bf2b-ec38f0d278c9.jpg)
 
+-İşçi Girişi
+![2](https://user-images.githubusercontent.com/95411819/216809912-195afdda-bde6-48a0-9719-f19696400380.jpg)
+-Yetkili Girişi
+![3](https://user-images.githubusercontent.com/95411819/216809914-97bd20fc-0d42-4e42-9a21-a9318a8cc412.jpg)
+
+**-------------ANASAYFA-------------**
+
+Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünleri comboboxtaki sayıya göre görebilirsin. Günlük kurları, haberleri ve hava durumunu kontrol edebilirsin.
+![image](https://user-images.githubusercontent.com/95411819/216810512-44cc1fed-1bac-447e-9994-8c6f5ca4a9f4.png)
+
+**-------------PERSONELLER-------------**
+
+- Personel Ekleme-Güncelleme-Silme işlemleri yapabilirisin 
+- Personeli resim olmadan NULL olarak SQL'e kayıt edebilir ve sonradan resim ekleyerek güncelleyebilirsin
+- Gerekli bilgiler olmadan kayıt yapamazsın 
+- Aynı TR-ID (TC) ye sahip personel kayıt edemezsin
+- Listede var olan ya da silinmiş aynı TC'ye sahip personeli güncelleyemezsin
+![image](https://user-images.githubusercontent.com/95411819/216810569-a9dde1fc-56d7-4292-83d0-36ed9ffbcb1b.png)
+
+**-------------ÜRÜNLER-------------**
+
+- Ürün Ekleme-Güncelleme-Silme işlemleri yapabilirisin 
+- Ürün resimleri için resimsiz bir şekilde NULL olarak ya da en fazla 3 resim olacak şekilde SQL'e kayıt edebilir ve sonradan resim ekleyerek güncelleyebilirsin
+- Gerekli bilgiler olmadan kayıt yapamazsın 
+![image](https://user-images.githubusercontent.com/95411819/216810774-ef741f3b-aad4-4bbe-ab2b-d3eedf507a02.png)

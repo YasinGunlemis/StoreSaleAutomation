@@ -81,4 +81,4 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 - Mevcut firma ve kişilerin iletişim bilgilerini listeler
 - Satırbaşına tıklayarak mesaj gönderme ekranına ulaşabilirisn
 - 
-![image](https://user-images.githubusercontent.com/95411819/216811755-dba31744-129e-4268-8190-5531dc087a1d.png)
+![image](https://user-images.githubusercontent.com/95411819/216811822-f4e3a5c9-f955-48ab-91e8-54d6ff9fd7e7.png)

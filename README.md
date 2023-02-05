@@ -93,3 +93,27 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 
 ![image](https://user-images.githubusercontent.com/95411819/216811990-2c087736-d9e3-41fc-b727-483a0fce18cd.png)
 
+**-------------NOTLAR-------------**
+- Not ekleme-güncelleme-silme işlemleri yapabilirsin
+
+![image](https://user-images.githubusercontent.com/95411819/216812063-dcf7a487-de5b-44ab-89f7-4f4c791c183e.png)
+
+**-------------GRAFİKLER-------------**
+
+**Ürünler-Adet**
+- Mevcut ürünlerin dağılımını görebilirsin
+![image](https://user-images.githubusercontent.com/95411819/216812136-f7bc3eff-31c4-44fa-8c4e-5a2d9feba09f.png)
+
+**Marka-Adet**
+- Mevcut ürünlerin seçilen ürüne göre marka dağılımını görebilirsin
+![image](https://user-images.githubusercontent.com/95411819/216812200-1820ce2a-3d78-449f-b2d4-5f5f84665a7a.png)
+
+**Satışlar En Çok Satanlar**
+- En çok satan ilk 10 ürün grafiği
+
+![image](https://user-images.githubusercontent.com/95411819/216812312-39518109-2940-40b4-ba4d-fb20a9ca2195.png)
+
+**Satışlar En Az Satanlar**
+- En az satan ilk 10 ürün grafiği
+![image](https://user-images.githubusercontent.com/95411819/216812375-639803b7-36bd-44d2-878b-c2d850e69785.png)
+

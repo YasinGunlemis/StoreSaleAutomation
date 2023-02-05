@@ -28,7 +28,7 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 - Personeli resim olmadan NULL olarak SQL'e kayıt edebilir ve sonradan resim ekleyerek güncelleyebilirsin
 - Gerekli bilgiler olmadan kayıt yapamazsın 
 - Aynı TR-ID (TC) ye sahip personel kayıt edemezsin
-- Listede var olan ya da silinmiş aynı TC'ye sahip personeli güncelleyemezsin
+- Seçilen personel hariç listede var olan ya da silinmiş aynı TC'ye sahip personeli güncelleyemezsin
 ![image](https://user-images.githubusercontent.com/95411819/216810569-a9dde1fc-56d7-4292-83d0-36ed9ffbcb1b.png)
 
 **-------------ÜRÜNLER-------------**
@@ -41,6 +41,8 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 **-------------FİRMALAR-------------**
 
 - Firmalar sayfasından firma ekleme sayfasına gidebilir, seçili firmayı silebilir ve detaylar sütunundan firma detaylarına gidip güncelleme işlemleri yapabilirsin
+- Aynı vergi no'ya sahip firma ekleyemezsin
+- Güncelleme ekranında seçilen firma hariç listede mevcut aynı vergi noya sahip firmayı güncelleyemezsin
 
 ![image](https://user-images.githubusercontent.com/95411819/216810963-3b1c1116-22eb-4987-a8e2-7aa53f4616e1.png)
 
@@ -49,6 +51,13 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 ![image](https://user-images.githubusercontent.com/95411819/216811058-c58b2871-1ad0-4866-b59a-30f51d77784d.png)
 
 - Firma Detaylar Ekranı ve Güncelleme
-- 
+
 ![image](https://user-images.githubusercontent.com/95411819/216811107-19fb1bc4-68c0-4c09-9a7f-f56c8fd22f5f.png)
 
+**-------------MÜŞTERİ KİŞİLER-------------**
+- Müşteri Ekleme-Güncelleme-Silme işlemleri yapabilirisin 
+- Gerekli bilgiler olmadan kayıt yapamazsın 
+- Aynı TR-ID (TC) ye sahip müşteri kayıt edemezsin
+- Seçilen müşteri hariç listede var olan ya da silinmiş aynı TC'ye sahip personeli güncelleyemezsin
+
+![image](https://user-images.githubusercontent.com/95411819/216811217-0da6dd44-98a3-4f8b-9be0-fa6e65e20094.png)

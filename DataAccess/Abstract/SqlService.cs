@@ -7,8 +7,7 @@ namespace DataAccess
 {
     public abstract class SqlService
     {
-            readonly string connectionString = "Data Source=MUHENDISLIKPC;Initial Catalog=STORE;Integrated Security=True";
-        //   readonly string connectionString = "Data Source=DESKTOP-9QF1U5E;Initial Catalog=STORE;Integrated Security=True";
+        readonly string connectionString = "Data Source=YOURSERVERNAME;Initial Catalog=STORE;Integrated Security=True";
         SqlConnection connection;
         public SqlService()
         {

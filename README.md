@@ -82,3 +82,14 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 - Satırbaşına tıklayarak mesaj gönderme ekranına ulaşabilirisn
 - 
 ![image](https://user-images.githubusercontent.com/95411819/216811822-f4e3a5c9-f955-48ab-91e8-54d6ff9fd7e7.png)
+
+
+**-------------FATURALAR-------------**
+- Mevcut müşterilere (firma ve kişiler) fatura açabilir, mevcut ürünlerden seçebilir ve sepete ekleyebilirsin
+- Sepete eklenen ürünü silebilirsin
+- Sepete ekleme ve çıkarma işlemi yaptığında ürün sayısı artar ve ya azalır
+- Faturayı sadece ekleyebilirsin güncelleme ve silme yapamazsın
+- Faturadaki ürünleri alt tablosunda görebilirsin
+
+![image](https://user-images.githubusercontent.com/95411819/216811990-2c087736-d9e3-41fc-b727-483a0fce18cd.png)
+

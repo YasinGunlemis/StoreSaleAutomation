@@ -37,3 +37,18 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 - Ürün resimleri için resimsiz bir şekilde NULL olarak ya da en fazla 3 resim olacak şekilde SQL'e kayıt edebilir ve sonradan resim ekleyerek güncelleyebilirsin
 - Gerekli bilgiler olmadan kayıt yapamazsın 
 ![image](https://user-images.githubusercontent.com/95411819/216810774-ef741f3b-aad4-4bbe-ab2b-d3eedf507a02.png)
+
+**-------------FİRMALAR-------------**
+
+- Firmalar sayfasından firma ekleme sayfasına gidebilir, seçili firmayı silebilir ve detaylar sütunundan firma detaylarına gidip güncelleme işlemleri yapabilirsin
+
+![image](https://user-images.githubusercontent.com/95411819/216810963-3b1c1116-22eb-4987-a8e2-7aa53f4616e1.png)
+
+- Firma Ekleme Ekranı
+
+![image](https://user-images.githubusercontent.com/95411819/216811058-c58b2871-1ad0-4866-b59a-30f51d77784d.png)
+
+- Firma Detaylar Ekranı ve Güncelleme
+- 
+![image](https://user-images.githubusercontent.com/95411819/216811107-19fb1bc4-68c0-4c09-9a7f-f56c8fd22f5f.png)
+

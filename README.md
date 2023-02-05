@@ -58,6 +58,27 @@ Anasayfa ekranı belli bir miktardan az kalan ürünleri ve son eklenen ürünle
 - Müşteri Ekleme-Güncelleme-Silme işlemleri yapabilirisin 
 - Gerekli bilgiler olmadan kayıt yapamazsın 
 - Aynı TR-ID (TC) ye sahip müşteri kayıt edemezsin
-- Seçilen müşteri hariç listede var olan ya da silinmiş aynı TC'ye sahip personeli güncelleyemezsin
+- Seçilen müşteri hariç listede var olan aynı TC'ye sahip personeli güncelleyemezsin
 
 ![image](https://user-images.githubusercontent.com/95411819/216811217-0da6dd44-98a3-4f8b-9be0-fa6e65e20094.png)
+
+**-------------FİRMA BANKA HESAPLARI-------------**
+
+- Kayıtlı olan firmaların banka hesaplarını ekleyebilir, güncelleyebilir ve silebilirsin
+- Aynı hesap no'ya sahip firma ekleyemezsin
+- Seçili firma hariç listede mevcut aynı hesap noya sahip firmayı güncelleyemezsin
+
+![image](https://user-images.githubusercontent.com/95411819/216811352-932bcb89-7b29-4b0f-b050-3a3d189b7b6b.png)
+
+**-------------GİDERLER-------------**
+- Aylık giderleri ekleme, güncelleme ve silme işlemleri yapabilirsin
+- Mevcut tarihleri ekleyemezsin
+- Seçili tarih hariç listede mevcut tarih giderleri güncelleyemezsin
+
+![image](https://user-images.githubusercontent.com/95411819/216811462-993c4733-1762-49f0-853c-02fca2bfefd7.png)
+
+**-------------REHBER-------------**
+- Mevcut firma ve kişilerin iletişim bilgilerini listeler
+- Satırbaşına tıklayarak mesaj gönderme ekranına ulaşabilirisn
+- 
+![image](https://user-images.githubusercontent.com/95411819/216811755-dba31744-129e-4268-8190-5531dc087a1d.png)

@@ -13,6 +13,9 @@ readonly string connectionString = "Data Source=YOURSERVERNAME;Initial Catalog=S
 
 Eğer giriş yapan personel yetkili değilse ana ekranda giderler ve firma banka hesapları butonları gözükmeyecek
 
+Yetkili Giriş **TR-ID: 21223213233 Password:123456**
+İşçi Giriş **TR-ID: 11144477778 Password:123456**
+
 ![1](https://user-images.githubusercontent.com/95411819/216808902-e0558beb-cb08-4dfd-bf2b-ec38f0d278c9.jpg)
 
 -İşçi Girişi
